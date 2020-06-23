@@ -1,0 +1,10 @@
+print("width=17")
+print("height=120")
+width=width/2
+print("width")
+width2=width/2.0
+print("width2")
+height=height/3
+print("height")
+answer=1+2*5
+print("answer")
